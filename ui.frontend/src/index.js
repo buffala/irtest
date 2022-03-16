@@ -17,6 +17,7 @@
 // Use polyfills for modern language features
 // The imports and dependencies can be removed if only modern browsers should be
 // supported
+// Yeah
 import 'react-app-polyfill/stable';
 import 'react-app-polyfill/ie9';
 import 'custom-event-polyfill';
